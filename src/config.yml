@@ -1,0 +1,15 @@
+# GolfCraft Configuration
+#
+# USE 4 SPACES INSTEAD OF TABS
+
+kill-mobs-on-course: true
+enable-clubs: true
+number-of-bounces: 3
+ball-power-percentage: 100
+enable-speed-variances: true
+rough-min-percent-decrease: 20
+rough-max-percent-decrease: 40
+sandtrap-min-percent-decrease: 60
+sandtrap-max-percent-decrease: 80
+teeing-ground-min-percent-increase: 100
+teeing-ground-max-percent-increase: 130
